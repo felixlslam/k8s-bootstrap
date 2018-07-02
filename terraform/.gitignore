@@ -1,2 +1,4 @@
 .terraform/**
 terraform.tfstate
+*.swp
+terraform.tfstate.backup

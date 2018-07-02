@@ -1,0 +1,4 @@
+resource "aws_key_pair" "admin" {
+  key_name   = "admin"
+  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDjfY8+jSAuhqbGYFOXHo0gcZcRFzvlG9AnOJaAjkkMMRnYIMd/bZ+4sH6GRF8+fGXYp7FAAs7Z8O/6nPS0fEL9Qg46h83LFO7UdtWVf7K4RtZFSObDBTQqRH96dDrrgQGwdU+EjfPUg3aUj0ONzWgnYnfLET0rgPQbtAPxfoMcE8zq+JsoW0TdnIom5GJTTeZKe/7aES/TyQI+kODvr0NZnKLhv5wdX3oiG47o4pxaYpcjksfwmhGqTBrq1xrjAjzTDQ5DBpwOOCNMTl3ha7p01H+OTc156MpQkLb3DaBIVi2vuXJR+jEu/5sekIMQ4JT91doC6bUwlpU8y0o3D2TT Felix@Felixs-iMac.local"
+}
